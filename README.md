@@ -36,6 +36,8 @@ It provides insights into **sales performance**, **item categories**, **outlet d
 - Supermarket Type1 dominates with **788K total sales** and **338.65 visibility score**.
 
 ---
+[Download Dashboard Screenshot](Assets/blinkit_dashboard.png)
+
 
 ## 🧠 Learning Outcomes
 - Building interactive dashboards in Power BI.  
