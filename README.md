@@ -72,7 +72,7 @@ Blinkit-Dashboard/
 ---
 
 ## 📬 Author
-**Suraj**  
+**Suraj Bhadade** 
 📍 Pune, MH, India  
 💼 Data Analyst | Power BI Developer  
 📧 Contact via Email
