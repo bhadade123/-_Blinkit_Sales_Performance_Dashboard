@@ -36,7 +36,10 @@ It provides insights into **sales performance**, **item categories**, **outlet d
 - Supermarket Type1 dominates with **788K total sales** and **338.65 visibility score**.
 
 ---
-[Download Dashboard Screenshot](Assets/blinkit_dashboard.png)
+
+##Screenshot of Dashboard
+<img width="1366" height="777" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/d63121b9-aa74-459c-9c82-12d28f53182a" />
+
 
 
 ## 🧠 Learning Outcomes
